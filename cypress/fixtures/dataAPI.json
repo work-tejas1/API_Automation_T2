@@ -1,0 +1,7 @@
+{
+  "baseUrlApi": "https://petstore.swagger.io/v2",
+  "petCategory": "Dog",
+  "petName": "Dog Name 9999",
+  "updatedPetName": "Updated Dog Name 8888",
+  "petId": "5"
+}
